@@ -11,9 +11,9 @@ An implementation for prediction and analysis of Anti-CoV functional peptide.
 
 ## Requirements
 
-We have already integrate the environment in `env.py`. execute `conda create -f env.yml` to install packages required in a new created `AMPrediction` conda env.
+We have already integrate the environment in `env.yml`. execute `conda create -f env.yml` to install packages required in a new created `AMPrediction` conda env.
 
-Enter the enviornment with `conda activate PreAntiCoV`.
+Enter the enviornment with `conda activate AMPrediction`.
 
 ## Steps for constructing classifiers
 
